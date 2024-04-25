@@ -38,5 +38,5 @@ This project employs HTML, CSS, and JavaScript to create an interactive and enga
 ### **Live Demo**: [Accordion FAQ ](https://kishan-job.github.io/Accordion-FAQ/)
 
 ### **Screenshot**:
-![WebsiteImage](./Screenshot/image.png)
+![WebsiteImage](./screenshot/image.png)
 git 
