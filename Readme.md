@@ -35,8 +35,8 @@ This project employs HTML, CSS, and JavaScript to create an interactive and enga
 - Object Iteration (for...in loop)
 - String Manipulation
 
-### **Live Demo**: [Accordion FAQ ]()
+### **Live Demo**: [Accordion FAQ ](https://kishan-job.github.io/Accordion-FAQ/)
 
 ### **Screenshot**:
 ![WebsiteImage](./Screenshot/image.png)
-
+git 
