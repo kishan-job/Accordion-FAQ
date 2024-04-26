@@ -39,4 +39,3 @@ This project employs HTML, CSS, and JavaScript to create an interactive and enga
 
 ### **Screenshot**:
 ![WebsiteImage](./screenshot/image.png)
-git 
